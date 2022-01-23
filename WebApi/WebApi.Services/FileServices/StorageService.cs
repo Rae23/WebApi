@@ -12,11 +12,11 @@ namespace WebApi.Services.FileServices
 {
     public class StorageService : IStorageService
     {
-        private readonly IDataProvider fileProvider;      
+        private readonly IDataProvider dataProvider;      
 
         public StorageService(IDataProvider fileProvider)
         {
-            this.fileProvider = fileProvider;
+            this.dataProvider = fileProvider;
         }
 
         public Guid SortAndStoreNumbers(double[] numbers)
@@ -27,22 +27,22 @@ namespace WebApi.Services.FileServices
             builder.AppendLine(GetSortedNumbersAndExecutionTime<QuickSort>(numbers));
             builder.AppendLine(GetSortedNumbersAndExecutionTime<HeapSort>(numbers));
 
-            return fileProvider.StoreData(builder.ToString());
+            return dataProvider.StoreData(builder.ToString());
         }
 
         public byte[] GetSortedNumbersDataById(Guid id)
         {
-            return fileProvider.GetData(id);
+            return dataProvider.GetData(id);
         }
 
         public byte[] GetLastSortedNumbersData()
         {
-            return fileProvider.GetData();
+            return dataProvider.GetData();
         }
 
         public IEnumerable<Guid> GetExistingIds()
         {
-            return fileProvider.GetDataIds();
+            return dataProvider.GetDataIds();
         }
 
         private string GetSortedNumbersAndExecutionTime<TSorter>(double[] numbers)

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Andromeda\\Source\\Repos\\WebApi\\WebApi\\WebApi.csproj": {}
+    "C:\\Repos\\WebApi\\WebApi\\WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Andromeda\\Source\\Repos\\WebApi\\WebApi.Services\\WebApi.Services.csproj": {
+    "C:\\Repos\\WebApi\\WebApi.Services\\WebApi.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Andromeda\\Source\\Repos\\WebApi\\WebApi.Services\\WebApi.Services.csproj",
+        "projectUniqueName": "C:\\Repos\\WebApi\\WebApi.Services\\WebApi.Services.csproj",
         "projectName": "WebApi.Services",
-        "projectPath": "C:\\Users\\Andromeda\\Source\\Repos\\WebApi\\WebApi.Services\\WebApi.Services.csproj",
+        "projectPath": "C:\\Repos\\WebApi\\WebApi.Services\\WebApi.Services.csproj",
         "packagesPath": "C:\\Users\\Andromeda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Andromeda\\Source\\Repos\\WebApi\\WebApi.Services\\obj\\",
+        "outputPath": "C:\\Repos\\WebApi\\WebApi.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\Andromeda\\Source\\Repos\\WebApi\\WebApi\\WebApi.csproj": {
+    "C:\\Repos\\WebApi\\WebApi\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Andromeda\\Source\\Repos\\WebApi\\WebApi\\WebApi.csproj",
+        "projectUniqueName": "C:\\Repos\\WebApi\\WebApi\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "C:\\Users\\Andromeda\\Source\\Repos\\WebApi\\WebApi\\WebApi.csproj",
+        "projectPath": "C:\\Repos\\WebApi\\WebApi\\WebApi.csproj",
         "packagesPath": "C:\\Users\\Andromeda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Andromeda\\Source\\Repos\\WebApi\\WebApi\\obj\\",
+        "outputPath": "C:\\Repos\\WebApi\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -96,8 +96,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Andromeda\\Source\\Repos\\WebApi\\WebApi.Services\\WebApi.Services.csproj": {
-                "projectPath": "C:\\Users\\Andromeda\\Source\\Repos\\WebApi\\WebApi.Services\\WebApi.Services.csproj"
+              "C:\\Repos\\WebApi\\WebApi.Services\\WebApi.Services.csproj": {
+                "projectPath": "C:\\Repos\\WebApi\\WebApi.Services\\WebApi.Services.csproj"
               }
             }
           }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cikjVNS7KlKIlFFtEb6Bi3WWmPqBCUqRYGRRrwV8mzJjLO42sUFpzSEVLKXeufNGQ0BOPxCDXYUnARcSfJ+/1g==",
+  "dgSpecHash": "kPE8jekio12tge1ILJguw09I9QzWCPZC0RqmcHbifmRECugdfGX9GuysoydPuOSnBg+ctmJEJinv1rY7yW1bYQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Andromeda\\Source\\Repos\\WebApi\\WebApi.Services\\WebApi.Services.csproj",
+  "projectFilePath": "C:\\Repos\\WebApi\\WebApi.Services\\WebApi.Services.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
