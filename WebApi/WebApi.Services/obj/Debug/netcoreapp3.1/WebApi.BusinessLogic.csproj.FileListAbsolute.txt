@@ -1,0 +1,10 @@
+C:\Users\Andromeda\Source\Repos\WebApi\WebApi.BusinessLogic\bin\Debug\netcoreapp3.1\WebApi.BusinessLogic.deps.json
+C:\Users\Andromeda\Source\Repos\WebApi\WebApi.BusinessLogic\bin\Debug\netcoreapp3.1\WebApi.BusinessLogic.dll
+C:\Users\Andromeda\Source\Repos\WebApi\WebApi.BusinessLogic\bin\Debug\netcoreapp3.1\WebApi.BusinessLogic.pdb
+C:\Users\Andromeda\Source\Repos\WebApi\WebApi.BusinessLogic\obj\Debug\netcoreapp3.1\WebApi.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\Andromeda\Source\Repos\WebApi\WebApi.BusinessLogic\obj\Debug\netcoreapp3.1\WebApi.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andromeda\Source\Repos\WebApi\WebApi.BusinessLogic\obj\Debug\netcoreapp3.1\WebApi.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\Andromeda\Source\Repos\WebApi\WebApi.BusinessLogic\obj\Debug\netcoreapp3.1\WebApi.BusinessLogic.AssemblyInfo.cs
+C:\Users\Andromeda\Source\Repos\WebApi\WebApi.BusinessLogic\obj\Debug\netcoreapp3.1\WebApi.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Andromeda\Source\Repos\WebApi\WebApi.BusinessLogic\obj\Debug\netcoreapp3.1\WebApi.BusinessLogic.dll
+C:\Users\Andromeda\Source\Repos\WebApi\WebApi.BusinessLogic\obj\Debug\netcoreapp3.1\WebApi.BusinessLogic.pdb

@@ -1,0 +1,9 @@
+C:\Users\Andromeda\Source\Repos\WebApi\WebApi.Services\bin\Debug\netcoreapp3.1\WebApi.Services.deps.json
+C:\Users\Andromeda\Source\Repos\WebApi\WebApi.Services\bin\Debug\netcoreapp3.1\WebApi.Services.dll
+C:\Users\Andromeda\Source\Repos\WebApi\WebApi.Services\bin\Debug\netcoreapp3.1\WebApi.Services.pdb
+C:\Users\Andromeda\Source\Repos\WebApi\WebApi.Services\obj\Debug\netcoreapp3.1\WebApi.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andromeda\Source\Repos\WebApi\WebApi.Services\obj\Debug\netcoreapp3.1\WebApi.Services.AssemblyInfoInputs.cache
+C:\Users\Andromeda\Source\Repos\WebApi\WebApi.Services\obj\Debug\netcoreapp3.1\WebApi.Services.AssemblyInfo.cs
+C:\Users\Andromeda\Source\Repos\WebApi\WebApi.Services\obj\Debug\netcoreapp3.1\WebApi.Services.csproj.CoreCompileInputs.cache
+C:\Users\Andromeda\Source\Repos\WebApi\WebApi.Services\obj\Debug\netcoreapp3.1\WebApi.Services.dll
+C:\Users\Andromeda\Source\Repos\WebApi\WebApi.Services\obj\Debug\netcoreapp3.1\WebApi.Services.pdb
