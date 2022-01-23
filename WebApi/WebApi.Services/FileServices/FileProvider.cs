@@ -16,6 +16,10 @@ namespace WebApi.Services.FileServices
         public FileProvider()
         {
             filesDirectory = new DirectoryInfo(directoryPath);
+            if (!filesDirectory.Exists)
+            {
+                filesDirectory.Create();
+            }
         }
 
         public IEnumerable<Guid> GetDataIds()
