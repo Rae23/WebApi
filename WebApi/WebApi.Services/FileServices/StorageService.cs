@@ -14,9 +14,9 @@ namespace WebApi.Services.FileServices
     {
         private readonly IDataProvider dataProvider;      
 
-        public StorageService(IDataProvider fileProvider)
+        public StorageService(IDataProvider dataProvider)
         {
-            this.dataProvider = fileProvider;
+            this.dataProvider = dataProvider;
         }
 
         public Guid SortAndStoreNumbers(double[] numbers)
