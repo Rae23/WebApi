@@ -54,9 +54,10 @@ namespace WebApi.Services.FileServices
 
             builder.AppendLine(sorter.SorterName + " Start");
 
-            watch.Start();
             double[] numbersTemp = new double[numbers.Length];
             Array.Copy(numbers, numbersTemp, numbers.Length); ///ref type, prepare for reuse for other sorting algorithms
+
+            watch.Start();
             builder.AppendLine(string.Join(", ", sorter.Sort(numbersTemp)));
             watch.Stop();
 
